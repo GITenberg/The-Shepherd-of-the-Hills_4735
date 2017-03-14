@@ -1,5 +1,8 @@
 _repo: The-Shepherd-of-the-Hills_4735
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, Harold Bell
@@ -16,6 +19,8 @@ description: '"To the beautiful Ozark hill country comes a man from the world of
   the gripping situations and thrilling incidents that bring him into a peculiarly
   intimate connection with these people, their country, and their simple life." --Back
   cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4735#The-Shepherd-of-the-Hills
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
